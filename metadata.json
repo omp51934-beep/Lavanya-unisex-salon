@@ -1,0 +1,6 @@
+{
+  "name": "Lavanya Unisex Salon",
+  "description": "Luxury Unisex Salon & Beauty Studio in Jaipur. Premium Hair Cuts, Hair Spa, Keratin, Bridal Makeup, Facials & Beauty Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
