@@ -134,8 +134,9 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking }) => {
           >
             <div className="relative rounded-3xl overflow-hidden border border-white/10 shadow-2xl group">
               <img
-                src="https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&q=80&w=1200"
+                src="https://i.ibb.co/YTykBdCL/IMG-3058.jpg"
                 alt="Lavanya Luxury Studio"
+                referrerPolicy="no-referrer"
                 className="w-full h-[480px] sm:h-[540px] object-cover object-center group-hover:scale-105 transition-transform duration-700"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-[#0A0A0A] via-transparent to-transparent opacity-80" />
